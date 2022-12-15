@@ -1,0 +1,11 @@
+company,1,cosmute,6910000002,info@cosmute
+company,2,vind,6921002300,info@vind
+company,3,votafon,6930987357,info@votafon
+plan,mobile,1,1,1200,240.0,100,10
+plan,landline,2,2,600,180.0,24,ADSL
+plan,mobile,3,1,1500,89.0,100,50
+client,1,123001,name1,professional,address1,6912345678,info@someone1
+client,2,123002,name2,student,address2,6987654321,info@someone2
+client,3,123003,name3,private citizen,address3,6918273645,info@someone3
+contract,1,6982222222,123001,1,2021-07-30,12,0.21,50.4,paper,cash,12.0,true
+contract,2,2103456344,123002,2,2021-07-30,24,0.15,27.0,electronic,card,0.0,false
